@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Essere.MVC\\Rm.API\\Rm.API.csproj": {}
+    "C:\\Dev\\Essere.MVC\\Rm.API\\RickAndMortyApi\\Rm.API.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Essere.MVC\\Rm.API\\Rm.API.csproj": {
+    "C:\\Dev\\Essere.MVC\\Rm.API\\RickAndMortyApi\\Rm.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Essere.MVC\\Rm.API\\Rm.API.csproj",
+        "projectUniqueName": "C:\\Dev\\Essere.MVC\\Rm.API\\RickAndMortyApi\\Rm.API.csproj",
         "projectName": "Rm.API",
-        "projectPath": "C:\\Dev\\Essere.MVC\\Rm.API\\Rm.API.csproj",
+        "projectPath": "C:\\Dev\\Essere.MVC\\Rm.API\\RickAndMortyApi\\Rm.API.csproj",
         "packagesPath": "C:\\Users\\Saboritto\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Essere.MVC\\Rm.API\\obj\\",
+        "outputPath": "C:\\Dev\\Essere.MVC\\Rm.API\\RickAndMortyApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Saboritto\\AppData\\Roaming\\NuGet\\NuGet.Config"

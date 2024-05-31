@@ -3201,11 +3201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Dev\\Essere.MVC\\Rm.API\\Rm.API.csproj",
+      "projectUniqueName": "C:\\Dev\\Essere.MVC\\Rm.API\\RickAndMortyApi\\Rm.API.csproj",
       "projectName": "Rm.API",
-      "projectPath": "c:\\Dev\\Essere.MVC\\Rm.API\\Rm.API.csproj",
+      "projectPath": "C:\\Dev\\Essere.MVC\\Rm.API\\RickAndMortyApi\\Rm.API.csproj",
       "packagesPath": "C:\\Users\\Saboritto\\.nuget\\packages\\",
-      "outputPath": "c:\\Dev\\Essere.MVC\\Rm.API\\obj\\",
+      "outputPath": "C:\\Dev\\Essere.MVC\\Rm.API\\RickAndMortyApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Saboritto\\AppData\\Roaming\\NuGet\\NuGet.Config"

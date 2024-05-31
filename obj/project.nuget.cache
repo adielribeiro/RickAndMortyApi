@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UVVM2ih6A/VuIWmain40viPKWwgYWbdjCWxBv5si18tUPNrSJboPgWEVHDPXuuWI63fzLYioAY/hs6ozBUKWrA==",
+  "dgSpecHash": "ZN/jJo6YpoPcYTrk+5GalM8bA7EAnKj+OcAzP0NT5qj4l2uOM3B+1r7sE5tDzpAHSlHkV25VbNBStmYIQY74Jw==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Essere.MVC\\Rm.API\\Rm.API.csproj",
+  "projectFilePath": "C:\\Dev\\Essere.MVC\\Rm.API\\RickAndMortyApi\\Rm.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saboritto\\.nuget\\packages\\entityframework\\6.3.0\\entityframework.6.3.0.nupkg.sha512",
     "C:\\Users\\Saboritto\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
